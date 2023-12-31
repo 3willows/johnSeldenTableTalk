@@ -2,8 +2,7 @@
 * {
   flex: auto;
   margin: 2%;
-  font-size: 22px;
+  font-size: clamp(30px, 7.5vw + 10px, 50px);
   line-height: 1.5;
   margin-bottom: 15px;
 }
-
