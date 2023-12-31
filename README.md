@@ -4,7 +4,7 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 
 ## How it was made
 
-1. Find the full text of the book via [Early English Books Online](https://quod.lib.umich.edu/e/eebogroup/)
+1. Find the [full text](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo;idno=A59095.0001.001) of the book via [Early English Books Online](https://quod.lib.umich.edu/e/eebogroup/)
 2. Use ChatGPT to generate a draft of index.html and app.css; tweak
 3. Copy and paste contents to "contents.txt"
 4. Use ChatGPT to generate first drafts of "formatContents.sh" and the other bash cripts in "bashScripts"; use them to automatically generate empty files in "txtFiles"
