@@ -20,9 +20,11 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 - Currently the "Back to contents" links links back to the live Github version, not the development version on the local machine.  Will make improvements more difficult!
 - If you delete all "target="_blank" from the formatted_Title.html, the new pages only appear in the Contents iframe!
 
-## Non-feature (for the moment)
+## Non-feature
 
 - Properly title each of the pages
 - Adding a "next page" button to let readers flip forward
 - Adding a "last page" button to let readers flip back
 - Further improve scrollability on i-Phones (still a bit clacky)
+- Search bar
+- Improve contents so that each topic gets its own link (e.g.one entry for "Convocation" and another for "Creed", not "Convocation, Creed, 46")
