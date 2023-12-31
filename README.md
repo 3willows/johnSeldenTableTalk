@@ -12,7 +12,7 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 6. Use pandocs with "panDocs.sh" to convert them into appropriate html pages
 7. Deploy an error shoot
 
-## TO DO
+## To do
 
 - [ ] Make mobile friendly
 - [ ] Add proper CSS with Bulma/Tailwind
