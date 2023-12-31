@@ -18,11 +18,11 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 - The original text contained some errors, not all of which have been fixed.
 - Some pages are missing a new line character and incorrectly formatted.
 - Currently the "Back to contents" links links back to the live Github version, not the development version on the local machine.  Will make improvements more difficult!
+- If you delete all "target="_blank" from the formatted_Title.html, the new pages only appear in the Contents iframe!
 
 ## Non-feature (for the moment)
 
 - Properly title each of the pages
 - Adding a "next page" button to let readers flip forward
 - Adding a "last page" button to let readers flip back
-- Make page.css properly responsive (as opposed to just having a big font).
 - Further improve scrollability on i-Phones (still a bit clacky)
