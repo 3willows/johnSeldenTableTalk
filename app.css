@@ -11,7 +11,7 @@ p
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #f4f4f4;
+  background-color: #fff;
   color: #333;
   margin: 20px;
 }
@@ -31,7 +31,7 @@ main {
 }
 
 article {
-  background-color: #fff;
+  background-color: #f4f4f4;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
