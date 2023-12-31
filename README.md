@@ -15,12 +15,14 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 
 ## Known issue(s)
 
-Some pages are missing a new line character and incorrectly formatted.
+- The original text contained some errors, not all of which have been fixed.
+- Some pages are missing a new line character and incorrectly formatted.
+- Currently the "Back to contents" links links back to the live Github version, not the development version on the local machine.  Will make improvements more difficult!
 
 ## Non-feature (for the moment)
 
+- Properly title each of the pages
 - Adding a "next page" button to let readers flip forward
 - Adding a "last page" button to let readers flip back
-- Adding a "return" button to let readers go back to contents
 - Make page.css properly responsive (as opposed to just having a big font).
 - Further improve scrollability on i-Phones (still a bit clacky)
