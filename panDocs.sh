@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Source directory containing text files
-source_dir="/path/to/source_directory"
+source_dir="txtFiles"
 
 # Destination directory to save HTML files
-destination_dir="/path/to/destination_directory"
+destination_dir="html"
 
 # Check if the source directory exists
 if [ -d "$source_dir" ]; then
