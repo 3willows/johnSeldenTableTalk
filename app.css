@@ -35,10 +35,6 @@ main {
   margin: 0 auto;
 }
 
-main h2 {
-  text-align: center;
-}
-
 article {
   background-color: #fff;
   padding: 20px;
@@ -54,10 +50,6 @@ article h3 {
 article p {
   font-size: 16px;
   line-height: 1.8;
-}
-
-p {
-  text-align: center;
 }
 
 .full-screen-iframe {
