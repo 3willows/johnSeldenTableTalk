@@ -5,7 +5,7 @@ h2,
 h3,
 p 
 {
-  font-size: clamp(30px, 7.5vw + 10px, 50px);
+  font-size: clamp(30px, 7.5vw + 10px, 30px);
 }
 
 body {
