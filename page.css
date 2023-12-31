@@ -1,0 +1,13 @@
+/* Common styles */
+p, ol {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+/* Media query for mobile devices */
+@media screen and (max-width: 767px) {
+  p, ol {
+    font-size: 30px;
+  }
+}
