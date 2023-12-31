@@ -46,7 +46,7 @@ article p {
 }
 
 .full-screen-iframe {
-  width: calc(100% - 40px); /* Adjust the width and margin to match your existing styles */
+  width: calc(100%); /* Adjust the width and margin to match your existing styles */
   height: calc(100vh - 190px); /* Adjust the height to fill remaining vertical space */
   margin: 20px; /* Match your existing margin */
   border: none; /* Remove default border */
