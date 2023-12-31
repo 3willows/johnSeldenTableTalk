@@ -14,7 +14,7 @@ if [ -f "$topics_file" ]; then
     # Replace spaces with hyphens and convert to lowercase for the anchor link
     anchor_link=$(echo "$topic_name" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
     # Output the li element with the anchor link and topic name
-    echo "<li><a href=\"#$anchor_link\">$topic</a></li>" >> formatted_Title.html
+    echo "<li><a href=\"$anchor_link.html\" target=\"_blank\">$topic</a></li>" >> formatted_Title.html
   done < "$topics_file"
   echo "Formatted content has been saved to formatted_Title.html"
 else

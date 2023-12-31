@@ -1,4 +1,4 @@
-Abbies, Priories, page 1
+Abbies, Priories, 1
 Articles, 3
 Baptism, 4
 Bastard, 5
@@ -24,7 +24,6 @@ Consecrated Places, 43
 Contracts, 44
 Council, 45
 Convocation, Creed, 46
-Page  [unnumbered]
 Damnation, 47
 Devils, 48
 Self-Denial, 51
@@ -56,7 +55,6 @@ King of England, 81
 The King, 84
 Knights Service, 86
 Land, Language, 87
-Page  [unnumbered]
 Law, 88
 Law of Nature, 90
 Learning, 91
@@ -88,7 +86,6 @@ Preaching, 137
 Predestination, 144
 Preferment, 145
 Praemunire, Prerogative, 148
-Page  [unnumbered]
 Presbytery, 149
 Priest of Rome, 151
 Prophecies, 152
