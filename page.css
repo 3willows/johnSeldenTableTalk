@@ -1,13 +1,9 @@
 /* Common styles */
 p, ol {
-  font-size: 18px;
+  flex: auto;
+  margin: 2%;
+  font-size: 22px;
   line-height: 1.5;
   margin-bottom: 15px;
 }
 
-/* Media query for mobile devices */
-@media screen and (max-width: 767px) {
-  p, ol {
-    font-size: 30px;
-  }
-}
