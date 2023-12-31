@@ -1,5 +1,9 @@
 /* Reset some default browser styles */
-body, h1, h2, h3, p {
+body,
+h1,
+h2,
+h3,
+p {
   margin: 0;
   padding: 0;
 }
@@ -31,7 +35,7 @@ main {
   margin: 0 auto;
 }
 
-main h2{
+main h2 {
   text-align: center;
 }
 
@@ -50,4 +54,15 @@ article h3 {
 article p {
   font-size: 16px;
   line-height: 1.8;
+}
+
+p {
+  text-align: center;
+}
+
+.full-screen-iframe {
+  width: calc(100% - 40px); /* Adjust the width and margin to match your existing styles */
+  height: calc(100vh - 190px); /* Adjust the height to fill remaining vertical space */
+  margin: 20px; /* Match your existing margin */
+  border: none; /* Remove default border */
 }
