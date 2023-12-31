@@ -15,6 +15,8 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 
 ## Known issue(s)
 
+- Link to Great Conjunction; Conscience doesn't work because of "great-conjunction-conscience..html"
+- Incorrect formatting for "Convocation, Creed, 46" (missing newline character)
 - The original text contained some errors, not all of which have been fixed.
 - Some pages are missing a new line character and incorrectly formatted.
 - Currently the "Back to contents" links links back to the live Github version, not the development version on the local machine.  Will make improvements more difficult!
