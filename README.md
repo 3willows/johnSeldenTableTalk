@@ -18,7 +18,7 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 - The original text contained some errors, not all of which have been fixed.
 - Some pages are missing a new line character and incorrectly formatted.
 - Currently the "Back to contents" links links back to the live Github version, not the development version on the local machine.  Will make improvements more difficult!
-- If you delete all "target="_blank" from the formatted_Title.html, the new pages only appear in the Contents iframe!
+- If you delete all "target=_blank" from the formatted_Title.html, the new pages only appear in the Contents iframe!
 
 ## Non-feature
 
