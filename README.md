@@ -10,9 +10,17 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 4. Use ChatGPT to generate first drafts of "formatContents.sh" and the other bash cripts in "bashScripts"; use them to automatically generate empty files in "txtFiles"
 5. Manually copy and paste into the txtFiles (and skim the book in the process!)
 6. Use pandocs with "panDocs.sh" to convert them into appropriate html pages
-7. Deploy an error shoot
+7. Deploy and error shoot
+8. Explore options to make (marginally!) mobile friendly.  Frameworks were too complex.  Settled on clamp: see "experiment.html" from [this tutorial](https://www.youtube.com/watch?v=erqRw3E-vn4)
 
-## To do
+## Known issue(s)
 
-- [ ] Make mobile friendly
-- [ ] Add proper CSS with Bulma/Tailwind
+Some pages are missing a new line character and incorrectly formatted.
+
+## Non-feature (for the moment)
+
+- Adding a "next page" button to let readers flip forward
+- Adding a "last page" button to let readers flip back
+- Adding a "return" button to let readers go back to contents
+- Make page.css properly responsive (as opposed to just having a big font).
+- Further improve scrollability on i-Phones (still a bit clacky)
