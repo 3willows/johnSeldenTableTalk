@@ -1,5 +1,5 @@
 /* Common styles */
-p, ol {
+* {
   flex: auto;
   margin: 2%;
   font-size: 22px;
