@@ -34,3 +34,7 @@ Always wanted to read this, but no copy is readily available in libraries in Hon
 
 - Better testing workflow.  E.g. took me a while to realise the easiest way to visually check all the pages is to open them all on the local machine with a browser!
 - This is a small enough project (and good enough text) for manual tweaking to be worth it.  At the moment, need to (1) edit to text file, (2) convert to html with pandoc by hand and (3) add the top and bottom lines by hand.  This should be automated for a larger project (e.g. one step build from everything in the text directory to everything in the html directory).
+
+## Reflections 4 months on
+
+A cute project, but very difficult to maintain/expand.  A lot of reptitions everywhere!
