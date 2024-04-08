@@ -9,3 +9,7 @@ From [Sir John Soane's Museum Collection Online](https://collections.soane.org/b
 Screenshot
 
 <img src="https://github.com/3willows/johnSeldenTableTalk/assets/111284156/f9722df6-e9d8-4da9-a968-f0838782440d" width="400" />
+
+Note: this project was made *without* any Javascript.  All the repetitions are instead done by tools such as bash, pandocs, and ChatGPT.  The result is code that is very difficult to change or maintain.  For more about the development process see [here](https://github.com/3willows/johnSeldenTableTalk/blob/main/History.md).
+
+I considered refactoring it with Javascript, but decided to leave it as a record of my first step in the web development journey.
